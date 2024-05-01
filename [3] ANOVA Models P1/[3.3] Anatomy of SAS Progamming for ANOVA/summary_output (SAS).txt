@@ -1,0 +1,2 @@
+data greenhouse;
+input Fert $ Height;
